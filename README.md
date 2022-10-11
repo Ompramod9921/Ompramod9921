@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
 </div>
 <h3 align="center">I'm OMKAR, A passionate AI-ML Enthusiast from India</h3>
 
