@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ompramod9921" alt="ompramod9921" /></a> </p>
 
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning R programming language and powerBi
+- 🌱 I’m currently learning R programming language and Power BI
 - 📚 I'm preparing for Microsoft Azure AI Fundamentals(AI-900) Certification
 - ⚡ Fun fact: My code never has bugs, it just develops random unexpected features.
 - 🎯 Current vibe: Working for the lifestyle I promised to myself
